@@ -6,7 +6,7 @@ paginatePath = '.'
 
 [params]
     title = "YYDS"
-    signature = "猿印 - 猿桌分享"
+    signature = "猿印 - 猿桌会议"
     cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
 
     name = "YYDS"
