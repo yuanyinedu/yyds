@@ -1,0 +1,13 @@
+baseURL = "https://yuanyinedu.github.io/yyds/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "YYDS"
+    signature = "猿印 - 猿桌分享"
+    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+
+    name = "YYDS"
+    avatar = "/img/default_avatar.png"
