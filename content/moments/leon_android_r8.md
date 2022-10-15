@@ -9,7 +9,7 @@ name: Leon
 avatar:
 
 # 发布时间
-date: 2022-04-07T17:00:00+08:00
+date: 2021-08-11T17:00:00+08:00
 
 # 给Moment添加标签
 tags:
@@ -19,7 +19,7 @@ tags:
 # 附加信息（选填1项或者不填写）
 # 附加信息类型1:单个图片
 pictures:
- - '/yyds/share/share_leon.jpeg'
+ - /yyds/share/share_leon.jpeg
 
 # 附加信息类型2:网页链接
 # link：必填，网页链接；
@@ -34,4 +34,4 @@ note:
 ---
 
 <!-- 下面开始写正文 -->
-《Flutter》
+《Android R8 技术浅析》
